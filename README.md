@@ -13,4 +13,4 @@ where:
 
 **"vlan.101"** - the name of the interface through which packets will be sent;
 
-**100** - the number of packages.
+**100** - the number of packets.
